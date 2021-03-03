@@ -1,6 +1,8 @@
 # Exercise-04a-State-Machine
 Exercise for MSCH-C220, 3 March 2021
 
+A demonstration of this exercise is available here: [https://youtu.be/d9I96qieMP8](https://youtu.be/d9I96qieMP8)
+
 This exercise is designed to begin our 2D Platformer by creating an animated sprite and a State Machine. The concepts behind this exercise will be outlined in class.
 
 Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-04a-State-Machine. *Edit the LICENSE and replace BL-MSCH-C220-S21 with your full name.* Commit your changes.
